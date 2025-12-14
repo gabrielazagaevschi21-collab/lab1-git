@@ -1,0 +1,1 @@
+Descriere laborator Git 
